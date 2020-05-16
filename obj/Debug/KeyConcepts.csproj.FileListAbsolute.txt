@@ -1,0 +1,5 @@
+C:\Users\jaffe\source\repos\KeyConcepts\bin\Debug\KeyConcepts.exe.config
+C:\Users\jaffe\source\repos\KeyConcepts\bin\Debug\KeyConcepts.exe
+C:\Users\jaffe\source\repos\KeyConcepts\bin\Debug\KeyConcepts.pdb
+C:\Users\jaffe\source\repos\KeyConcepts\obj\Debug\KeyConcepts.exe
+C:\Users\jaffe\source\repos\KeyConcepts\obj\Debug\KeyConcepts.pdb
